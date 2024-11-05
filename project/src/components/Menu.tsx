@@ -1,4 +1,4 @@
-import UserGrid from "./userGrid"
+import UserGrid from "./UserGrid"
 function Menu() {
     return(
         <>
